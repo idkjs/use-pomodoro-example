@@ -10103,6 +10103,13 @@ url@^0.11.0:
     punycode "1.3.2"
     querystring "0.2.0"
 
+use-react-pomodoro-fp@idkjs/use-react-pomodoro-fp:
+  version "0.1.0"
+  resolved "https://codeload.github.com/idkjs/use-react-pomodoro-fp/tar.gz/2896f33d50922d75e763e79db21ac7daae839b15"
+  dependencies:
+    react "^16.13.1"
+    react-dom "^16.13.1"
+
 use@^3.1.0:
   version "3.1.1"
   resolved "https://registry.yarnpkg.com/use/-/use-3.1.1.tgz#d50c8cac79a19fbc20f2911f56eb973f4e10070f"
